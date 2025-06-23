@@ -10,14 +10,198 @@ Atualmente estou cursando o 3º semestre de Desenvolvimento de Software Multipla
 
 Atuo como estagiária de desenvolvimento de software na Autaza, uma empresa especializada em soluções de visão computacional e inteligência artificial aplicadas à indústria. Nessa função, colaboro em projetos que envolvem desde o desenvolvimento de aplicações backend e frontend até a integração com modelos de IA para inspeção automatizada de qualidade.
 
+<span> Saiba mais sobre mim <a href="https://github.com/karengoncalves8/PortfolioGAP/tree/main/AboutMe/AboutMe.md">aqui!</a> </span>
+
 <div align="center"> 
   <a href="https://www.linkedin.com/in/karen-gon%C3%A7alves-462ab3212/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://portfolio-karen-goncalves-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PortfolioWeb-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=24114d" target="_blank"></a> 
 </div>
 
-<hr>
-<div class="semestre1">
+<div class="projetos">
 <h2>Meus Projetos</h2>
-<h3> 	:blue_square: SmartFarm • 1º Semestre • 2023/01 </h3>
+  <ul>
+    <li><h3> SmartFarm • 1º Semestre • 2023/01 </h3>
+      <img src="./images/BannerSmartFarm.png" width="100%"></br>
+      <span style="display: flex; justify-content: center; gap: 0.3rem"><a href="https://github.com/SkyFlyTeam/SmartFarm" target="_blank" >Repositório do Projeto</a> <span>•  Equipe SkyFly</span> </span>
+      </br>
+      <b>📑 Descrição do Problema </b>
+      <p> A equipe I9, do curso de Manufatura Avançada da FATEC, identificou que o processo de coleta e análise de dados ambientais em estufas inteligentes, feito manualmente via Excel, é lento, propenso a erros e exige muito da equipe técnica. Essa limitação dificulta o acompanhamento eficiente do cultivo de plantas e hortaliças, impactando diretamente na produtividade e no controle ambiental. 
+      </p>
+      </br>
+      <b>🎯 Objetivo</b>
+      <p> Desenvolver um painel de visualização capaz de monitorar em tempo real as condições da estufa por meio de gráficos interativos e automatizar tanto a coleta quanto o armazenamento de dados ambientais. O foco é melhorar a eficiência, reduzir o esforço manual e garantir mais precisão no monitoramento.
+      </p>
+      </br>
+      <b>💡 Solução  </b>
+      <p> Foi criado um site com interface amigável e intuitiva, que realiza comunicação direta com a placa utilizada, de forma que os dados capturados pela estufa são apresentados de forma visual e clara em tempo real. A plataforma permite acompanhar as variáveis ambientais da estufa por meio de gráficos, facilitando a tomada de decisões. 
+      </p>
+      </br>
+      <b> 🛠️ Tecnologias Utilizadas </b>
+      <p> 
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+      </p>
+      </br>
+      <b>🙋‍♀️ Contribuições pessoais  </b>
+      <p> Atuei como desenvolvedora da equipe SkyFly, ajudando na elaboração do protótipo inicial da aplicação e sendo responsável pelo desenvolvimento do frontend. Colaborei ativamente com meus colegas de equipe, oferecendo suporte técnico, especialmente nas etapas que envolviam HTML e CSS, visto que muitos estavam tendo o primeiro contato com essas tecnologias. Minha experiência prévia foi fundamental para orientar o time e garantir um desenvolvimento mais fluido e colaborativo.
+      </p>
+      <div style="display: flex; gap: 1rem">
+        <span><b> Habilidades adquiridas: </b></span>
+        <div style="display: flex; gap: 3rem">
+          <details>
+            <summary>Hard Skills </summary>
+            <ul>
+              <li> HTML/CSS </li>
+              <li> Docker </li>
+              <li> MySQL </li>
+              <li> Figma </li>
+              <li> Git e Github </li>
+            </ul>
+          </details>
+          <details>
+            <summary>Soft Skills </summary>
+            <ul>
+              <li>Colaboração em equipe multidisciplinar</li>
+              <li>Comunicação clara e didática com colegas</li>
+              <li>Proatividade na resolução de problemas e estudo de tecnologias. Ex: Utilização do Pandas para a geração dos gráficos.</li>
+              <li>Organização e gestão de tempo</li>
+              <li>Adaptabilidade a diferentes níveis de conhecimento técnico</li>
+              <li>Empatia e apoio ao aprendizado dos colegas</li>
+            </ul>
+          </details>
+        </div>
+      <div>
+    </li>
+    </br></br>
+    <li><h3> CloudStock • 2º Semestre • 2023/02 </h3>
+      <img src="./images/BannerCloudStock.png" width="100%"></br>
+      <span style="display: flex; justify-content: center; gap: 0.3rem"><a href="https://github.com/SkyFlyTeam/cloudStock" target="_blank" >Repositório do Projeto</a> <span>•  Equipe SkyFly</span> </span>
+      </br>
+      <b>📑 Descrição do Problema </b>
+      <p> A problemática foi apresentada por um cliente interno da FATEC, que relatou dificuldades no gerenciamento de estoque, devido a processos manuais e descentralizados. Esses métodos estavam sujeitos a falhas humanas, falta de rastreabilidade e ausência de relatórios em tempo real, comprometendo a eficiência operacional e a tomada de decisões estratégicas.
+      </p>
+      </br>
+      <b>🎯 Objetivo</b>
+      <p> Desenvolver um sistema de controle de estoque capaz de organizar, automatizar e facilitar a gestão de produtos, fornecedores e movimentações de estoque. O objetivo foi garantir maior controle sobre o inventário, reduzir erros e permitir uma visualização clara de entradas, saídas e níveis de estoque.
+      </p>
+      </br>
+      <b>💡 Solução  </b>
+      <p> Foi desenvolvido um website completo e intuitivo, com funcionalidades como cadastro de itens e fornecedores, controle de entradas e saídas, geração de relatórios e alertas automáticos. A plataforma oferece uma experiência prática e organizada, promovendo maior controle logístico e agilidade na gestão de estoque por parte das empresas.
+      </p>
+      </br>
+      <b> 🛠️ Tecnologias Utilizadas </b>
+      <p> 
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+      </p>
+      </br>
+      <b>🙋‍♀️ Contribuições pessoais  </b>
+      <p> Atuei como desenvolvedora da equipe SkyFly, ajudando na elaboração do protótipo inicial da aplicação e sendo responsável pelo desenvolvimento tanto do frontend, quanto do backend. Participei ativamente da modelagem do Banco de Dados e também nas discussões sobre os requisitos apresentados. Desenvolvi algumas funcionalidades chaves, como por exemplo o sistema de notificações utilizando triggers e websocket.
+      </p>
+      <div style="display: flex; gap: 1rem">
+        <span><b> Habilidades adquiridas: </b></span>
+        <div style="display: flex; gap: 3rem">
+          <details>
+            <summary>Hard Skills </summary>
+            <ul>
+              <li> React </li>
+              <li> Node.js </li>
+              <li> Typescript </li>
+              <li> Docker </li>
+              <li> MySQL </li>
+              <li> Figma </li>
+              <li> Git e Github </li>
+            </ul>
+          </details>
+          <details>
+            <summary>Soft Skills </summary>
+            <ul>
+              <li>Elaboração de VPC e DoR/DoD</li>
+              <li>Colaboração no compartilhamento de conhecimento</li>
+              <li>Comunicação transparente e frequente por meio de dailies</li>
+              <li>Proatividade na resolução de problemas</li>
+              <li>Organização e gestão de tempo</li>
+              <li>Adaptabilidade a demandas urgencias para a entrega no prazo correto</li>
+            </ul>
+          </details>
+        </div>
+      <div>
+    </li>
+    <li><h3> BeeOnTime • 3º Semestre • 2024/01 </h3>
+      <img src="./images/BannerBeeOnTime.png" width="100%"></br>
+      <span style="display: flex; justify-content: center; gap: 0.3rem"><a href="https://github.com/SkyFlyTeam/beeOnTime-documentation" target="_blank" >Repositório do Projeto</a> <span>•  Equipe SkyFly</span> </span>
+      </br>
+      <b>📑 Descrição do Problema </b>
+      <p> A problemática foi apresentada pela empresa Necto Systems, que realizava o controle de ponto dos colaboradores por meio de planilhas Excel. Esse método manual dificultava o acompanhamento preciso das horas trabalhadas, gerava riscos de inconsistência nos dados e não oferecia visibilidade eficiente para a gestão de jornadas, folgas, férias e horas extras.
+      </p>
+      </br>
+      <b>🎯 Objetivo</b>
+      <p> Desenvolver uma aplicação web moderna e responsiva que automatize o controle de ponto eletrônico dos colaboradores. O objetivo foi garantir maior confiabilidade no registro de jornada, facilitar o gerenciamento de horas extras, folgas e férias, além de disponibilizar relatórios detalhados para a tomada de decisões da empresa.
+      </p>
+      </br>
+      <b>💡 Solução  </b>
+      <p> Foi criada a plataforma BeeOnTime, um website intuitivo que permite o registro de ponto eletrônico, visualização do espelho de ponto, controle de banco de horas e envio de justificativas e notificações. A aplicação oferece ferramentas completas para colaboradores, gestores e administradores, promovendo organização, transparência e eficiência no acompanhamento da jornada de trabalho.
+      </p>
+      </br>
+      <b> 🛠️ Tecnologias Utilizadas </b>
+      <p> 
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+      </p>
+      </br>
+      <b>🙋‍♀️ Contribuições Pessoais</b>
+      <p> Atuei como desenvolvedora da equipe SkyFly, contribuindo desde a elaboração do protótipo inicial até a implementação final da aplicação. Fui responsável pela modelagem do banco de dados, definição da arquitetura dos microsserviços e desenvolvimento tanto do frontend quanto do backend. Desenvolvi uma das funcionalidades centrais do sistema — a marcação de ponto eletrônico — incluindo o cálculo e armazenamento das horas trabalhadas por cada colaborador. Também assumi a responsabilidade pela gestão do banco de dados no MongoDB, garantindo consistência e desempenho na manipulação das informações.
+      </p>
+      <div style="display: flex; gap: 1rem">
+        <span><b> Habilidades Adquiridas: </b></span>
+        <div style="display: flex; gap: 3rem">
+          <details>
+            <summary>Hard Skills</summary>
+            <ul>
+              <li>React</li>
+              <li>Node.js</li>
+              <li>TypeScript</li>
+              <li>Spring Boot</li>
+              <li>Microsserviços</li>
+              <li>MongoDB</li>
+              <li>Docker</li>
+              <li>Figma</li>
+              <li>Git e GitHub</li>
+            </ul>
+          </details>
+          <details>
+            <summary>Soft Skills</summary>
+            <ul>
+              <li>Colaboração no compartilhamento de conhecimento com a equipe</li>
+              <li>Comunicação clara e constante por meio de reuniões diárias e revisões e planejamento de sprints</li>
+              <li>Proatividade na identificação e resolução de problemas e busca por novas soluções. Ex: Propus um novo formato de Merge requests para garantir a qualidade e eficiência nas entregas de tasks</li>
+              <li>Organização e gestão eficiente do tempo e das tarefas</li>
+              <li>Adaptabilidade para lidar com mudanças propostas pelo cliente</li>
+              <li>Comprometimento com a entrega de resultados dentro do prazo</li>
+            </ul>
+          </details>
+        </div>
+      </div>
+    </li>
+  </ul>
 </div>
