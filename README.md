@@ -86,6 +86,8 @@ Atuo como estagiária de desenvolvimento de software na Autaza, uma empresa espe
       <div>
       </br>
       <b>📚 Lições Aprendidas</b>
+      </br>
+      </br>
       <p> Durante o desenvolvimento do projeto SmartFarm, aprofundei meus conhecimentos no desenvolvimento de APIs com Python, utilizando o framework Flask. Trabalhei com a manipulação de grandes volumes de dados, focando na sua organização e exibição de forma acessível por meio de gráficos construídos com o uso do Pandas, uma biblioteca amplamente utilizada no mercado. Além dos aprendizados técnicos, também evoluí significativamente na comunicação e colaboração em equipe, contribuindo ativamente com o compartilhamento de conhecimentos e apoiando meus colegas ao longo do projeto.</p>
     </li>
     </br></br>
@@ -151,6 +153,8 @@ Atuo como estagiária de desenvolvimento de software na Autaza, uma empresa espe
       <div>
       </br>
       <b>📚 Lições Aprendidas</b>
+      </br>
+      </br>
       <p> Durante o desenvolvimento do projeto CloudStock, aprofundei meus conhecimentos na criação de interfaces com React, utilizando componentes e estados de forma organizada e eficiente. Com o aumento do volume de dados manipulados, a performance do website tornou-se uma preocupação central, o que me levou a adotar práticas voltadas à otimização e ao desempenho. Neste semestre, trabalhamos com uma documentação mais detalhada, incorporando critérios como DoR (Definition of Ready) e DoD (Definition of Done), o que exigiu maior organização, planejamento e alinhamento entre os membros da equipe. Além disso, obtive experiência prática com Node.js e Express no backend, contribuindo com a criação de modelos e o desenvolvimento de funcionalidades essenciais do sistema.
       </p>
     </li>
