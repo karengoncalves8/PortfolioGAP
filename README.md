@@ -2,9 +2,15 @@
 
 <h2>Sumário</h2>
 <p>:small_blue_diamond: <a href="#sobre-mim">Sobre mim</a></p>
-<p>:small_blue_diamond: <a href="#meus-projetos">Meus Projetos</a></p>
+<p>:small_blue_diamond: <a href="#meus-projetos">Meus Projetos</a>
+<ul>
+  <li><a href="#smart-farm">1ºSEM: SmartFarm</a></li>
+  <li><a href="#cloud-stock">2ºSEM: CloudStock</a></li>
+  <li><a href="#bot">3ºSEM: BeeOnTime</a></li>
+</ul>
+</p>
 
-<h2>Sobre Mim</h2>
+<h2 id="sobre-mim">Sobre Mim</h2>
 
 Atualmente estou cursando o 3º semestre de Desenvolvimento de Software Multiplataforma oferecido pela Faculdade de Tecnologia de São José dos Campos (FATEC). Além disso, sou técnica em Desenvolvimento de Sistemas pela ETEC Profª Ilza Nascimento Pintus.
 
@@ -17,13 +23,14 @@ Atuo como estagiária de desenvolvimento de software na Autaza, uma empresa espe
     <a href="https://portfolio-karen-goncalves-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PortfolioWeb-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=24114d" target="_blank"></a> 
 </div>
 
-<div class="projetos">
-<h2>Meus Projetos</h2>
+<div>
+<h2 id="meus-projetos">Meus Projetos</h2>
   <ul>
-    <li><h3> SmartFarm • 1º Semestre • 2023/01 </h3>
+    <li><h3 id="smart-farm"> SmartFarm • 1º Semestre • 2023/01 </h3>
       <img src="./images/BannerSmartFarm.png" width="100%"></br>
-      <span style="display: flex; justify-content: center; gap: 0.3rem"><a href="https://github.com/SkyFlyTeam/SmartFarm" target="_blank" >Repositório do Projeto</a> <span>•  Equipe SkyFly</span> </span>
-      </br>
+      <p align="center">
+        <a href="https://github.com/SkyFlyTeam/SmartFarm" target="_blank">Repositório do Projeto</a> • Equipe SkyFly
+      </p>
       <b>📑 Descrição do Problema </b>
       <p> A equipe I9, do curso de Manufatura Avançada da FATEC, identificou que o processo de coleta e análise de dados ambientais em estufas inteligentes, feito manualmente via Excel, é lento, propenso a erros e exige muito da equipe técnica. Essa limitação dificulta o acompanhamento eficiente do cultivo de plantas e hortaliças, impactando diretamente na produtividade e no controle ambiental. 
       </p>
@@ -49,7 +56,7 @@ Atuo como estagiária de desenvolvimento de software na Autaza, uma empresa espe
       </p>
       </br>
       <b>🙋‍♀️ Contribuições pessoais  </b>
-      <p> Atuei como desenvolvedora da equipe SkyFly, ajudando na elaboração do protótipo inicial da aplicação e sendo responsável pelo desenvolvimento do frontend. Colaborei ativamente com meus colegas de equipe, oferecendo suporte técnico, especialmente nas etapas que envolviam HTML e CSS, visto que muitos estavam tendo o primeiro contato com essas tecnologias. Minha experiência prévia foi fundamental para orientar o time e garantir um desenvolvimento mais fluido e colaborativo.
+      <p> Atuei como desenvolvedora da equipe SkyFly, ajudando na elaboração do protótipo inicial da aplicação e sendo responsável pelo desenvolvimento do frontend. Colaborei ativamente com meus colegas de equipe, oferecendo suporte técnico, especialmente nas etapas que envolviam HTML e CSS, visto que muitos estavam tendo o primeiro contato com essas tecnologias. Minha experiência prévia foi fundamental para orientar o time e garantir um desenvolvimento mais fluido e colaborativo. Também desenvolvi algumas funcionalidades no backend, como rotas para retornar com os dados a serem exibidos nos gráficos. 
       </p>
       <div style="display: flex; gap: 1rem">
         <span><b> Habilidades adquiridas: </b></span>
@@ -77,12 +84,16 @@ Atuo como estagiária de desenvolvimento de software na Autaza, uma empresa espe
           </details>
         </div>
       <div>
+      </br>
+      <b>📚 Lições Aprendidas</b>
+      <p> Durante o desenvolvimento do projeto SmartFarm, aprofundei meus conhecimentos no desenvolvimento de APIs com Python, utilizando o framework Flask. Trabalhei com a manipulação de grandes volumes de dados, focando na sua organização e exibição de forma acessível por meio de gráficos construídos com o uso do Pandas, uma biblioteca amplamente utilizada no mercado. Além dos aprendizados técnicos, também evoluí significativamente na comunicação e colaboração em equipe, contribuindo ativamente com o compartilhamento de conhecimentos e apoiando meus colegas ao longo do projeto.</p>
     </li>
     </br></br>
-    <li><h3> CloudStock • 2º Semestre • 2023/02 </h3>
+    <li><h3 id="cloud-stock"> CloudStock • 2º Semestre • 2023/02 </h3>
       <img src="./images/BannerCloudStock.png" width="100%"></br>
-      <span style="display: flex; justify-content: center; gap: 0.3rem"><a href="https://github.com/SkyFlyTeam/cloudStock" target="_blank" >Repositório do Projeto</a> <span>•  Equipe SkyFly</span> </span>
-      </br>
+       <p align="center">
+        <a href="https://github.com/SkyFlyTeam/cloudStock" target="_blank">Repositório do Projeto</a> • Equipe SkyFly
+      </p>
       <b>📑 Descrição do Problema </b>
       <p> A problemática foi apresentada por um cliente interno da FATEC, que relatou dificuldades no gerenciamento de estoque, devido a processos manuais e descentralizados. Esses métodos estavam sujeitos a falhas humanas, falta de rastreabilidade e ausência de relatórios em tempo real, comprometendo a eficiência operacional e a tomada de decisões estratégicas.
       </p>
@@ -133,16 +144,21 @@ Atuo como estagiária de desenvolvimento de software na Autaza, uma empresa espe
               <li>Comunicação transparente e frequente por meio de dailies</li>
               <li>Proatividade na resolução de problemas</li>
               <li>Organização e gestão de tempo</li>
-              <li>Adaptabilidade a demandas urgencias para a entrega no prazo correto</li>
+              <li>Adaptabilidade a demandas urgenciais para a entrega no prazo correto</li>
             </ul>
           </details>
         </div>
       <div>
-    </li>
-    <li><h3> BeeOnTime • 3º Semestre • 2024/01 </h3>
-      <img src="./images/BannerBeeOnTime.png" width="100%"></br>
-      <span style="display: flex; justify-content: center; gap: 0.3rem"><a href="https://github.com/SkyFlyTeam/beeOnTime-documentation" target="_blank" >Repositório do Projeto</a> <span>•  Equipe SkyFly</span> </span>
       </br>
+      <b>📚 Lições Aprendidas</b>
+      <p> Durante o desenvolvimento do projeto CloudStock, aprofundei meus conhecimentos na criação de interfaces com React, utilizando componentes e estados de forma organizada e eficiente. Com o aumento do volume de dados manipulados, a performance do website tornou-se uma preocupação central, o que me levou a adotar práticas voltadas à otimização e ao desempenho. Neste semestre, trabalhamos com uma documentação mais detalhada, incorporando critérios como DoR (Definition of Ready) e DoD (Definition of Done), o que exigiu maior organização, planejamento e alinhamento entre os membros da equipe. Além disso, obtive experiência prática com Node.js e Express no backend, contribuindo com a criação de modelos e o desenvolvimento de funcionalidades essenciais do sistema.
+      </p>
+    </li>
+    <li><h3 id="bot"> BeeOnTime • 3º Semestre • 2024/01 </h3>
+      <img src="./images/BannerBeeOnTime.png" width="100%"></br>
+       <p align="center">
+        <a href="https://github.com/SkyFlyTeam/beeOnTime-documentation" target="_blank">Repositório do Projeto</a> • Equipe SkyFly
+      </p>
       <b>📑 Descrição do Problema </b>
       <p> A problemática foi apresentada pela empresa Necto Systems, que realizava o controle de ponto dos colaboradores por meio de planilhas Excel. Esse método manual dificultava o acompanhamento preciso das horas trabalhadas, gerava riscos de inconsistência nos dados e não oferecia visibilidade eficiente para a gestão de jornadas, folgas, férias e horas extras.
       </p>
@@ -202,6 +218,9 @@ Atuo como estagiária de desenvolvimento de software na Autaza, uma empresa espe
           </details>
         </div>
       </div>
+      </br>
+      <b>📚 Lições Aprendidas</b>
+      <p> Durante o desenvolvimento do projeto BeeOnTime, adquiri conhecimentos em arquitetura de microsserviços e no desenvolvimento em Java, a nova tecnologia explorada nesse semestre. Trabalhar com banco de dados NoSQL (MongoDB) me proporcionou uma nova perspectiva sobre modelagem de dados voltada para flexibilidade e desempenho, assim como a manipulação desses dados para se encaixar em uma arquitetura estruturada. Ademais, obtive maior experiência na modelagem do banco de dados, principalmente para sistemas complexos, como a problématica dada.</p>
     </li>
   </ul>
 </div>
