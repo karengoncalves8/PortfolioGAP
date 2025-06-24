@@ -74,12 +74,12 @@ Atuo como estagiária de desenvolvimento de software na Autaza, uma empresa espe
           <details>
             <summary>Soft Skills </summary>
             <ul>
-              <li>Colaboração em equipe multidisciplinar</li>
-              <li>Comunicação clara e didática com colegas</li>
-              <li>Proatividade na resolução de problemas e estudo de tecnologias. Ex: Utilização do Pandas para a geração dos gráficos.</li>
-              <li>Organização e gestão de tempo</li>
-              <li>Adaptabilidade a diferentes níveis de conhecimento técnico</li>
-              <li>Empatia e apoio ao aprendizado dos colegas</li>
+              <li>Colaboração em equipe multidisciplinar: Cada membro da equipe tinha conhecimentos e pendia para uma área de desenvolvimento, como desenvolvedores frontend, backend e devOps. Isso exigiu um esforço conjunto para alinhar os objetivos e resolver problemas técnicos sem que cada um ficasse preso em seu núcleo, mas fosse capaz de aprender e contribuir em outras áreas. Pessoalmente, foi meu primeiro contato com o DevOps, por exemplo.</li>
+            <li>Comunicação clara e didática com colegas: Durante o desenvolvimento da API, tive que documentar e explicar conceitos e ferramentas de forma acessível para os membros da equipe com diferentes níveis de conhecimento. Isso incluiu a explicação de decisões sobre o Figma, por exemplo, uma ferramenta que muitos nunca haviam utilizado.</li>
+              <li>Proatividade na resolução de problemas e estudo de tecnologias: Durante o desenvolvimento da API, identifiquei a necessidade de utilizar o Pandas para a geração de gráficos e análise de dados, uma vez abrangi diversas funcionalidades já integradas que seria muito úteis para nosso cliente. Fui proativa em aprender sobre essa biblioteca e apliquei esse conhecimento para gerar relatórios visuais que facilitassem a interpretação dos dados.</li>
+              <li>Organização e gestão de tempo: Para garantir que as entregas fossem feitas dentro do prazo, organizei meu tempo de maneira eficiente, priorizando tarefas de acordo com a urgência. Isso foi essencial no processo de desenvolvimento da API, onde a gestão do tempo foi fundamental para a integração de várias funcionalidades de forma coesa e sem comprometer a qualidade do código.</li>
+              <li>Adaptabilidade a diferentes níveis de conhecimento técnico: Durante o projeto, a equipe possuía membros com diferentes níveis de experiência. Adaptar minha comunicação e abordagem de trabalho a esses diferentes níveis foi fundamental para garantir que todos os membros pudessem contribuir efetivamente no desenvolvimento da API, mesmo aqueles com menos experiência em algumas tecnologias.</li>
+              <li>Empatia e apoio ao aprendizado dos colegas: Sempre que um membro da equipe encontrava dificuldades técnicas, oferecia apoio, seja ajudando com a sua task na API ou sugerindo recursos educativos.</li>
             </ul>
           </details>
         </div>
@@ -141,12 +141,12 @@ Atuo como estagiária de desenvolvimento de software na Autaza, uma empresa espe
           <details>
             <summary>Soft Skills </summary>
             <ul>
-              <li>Elaboração de VPC e DoR/DoD</li>
-              <li>Colaboração no compartilhamento de conhecimento</li>
-              <li>Comunicação transparente e frequente por meio de dailies</li>
-              <li>Proatividade na resolução de problemas</li>
-              <li>Organização e gestão de tempo</li>
-              <li>Adaptabilidade a demandas urgenciais para a entrega no prazo correto</li>
+              <li>Elaboração de VPC e DoR/DoD: Durante o projeto, utilizamos o VPC para entender melhor o que o cliente deseja e o DoR e DoD para ter uma noção maior do que deveríamos fazer a cada sprint em sentido de entrega. Essas definições ajudaram a estabelecer padrões claros para o desenvolvimento, garantindo que as funcionalidades estivessem bem preparadas antes de serem iniciadas e atendendo aos critérios de qualidade ao final de cada entrega. Foi o meu primeiro contato com tal documento e achei bem positivo do ponto de vista de desenvolvimento.</li>  
+              <li>Colaboração no compartilhamento de conhecimento: Como a utilização do Node.js no backend e do React no frontend era algo novo para a equipe, tivemos que aprender juntos e compartilhar constantemente os conhecimentos. Realizamos sessões de estudo em grupo, onde cada membro contribuiu com o que aprendeu, o que garantiu uma integração eficiente das tecnologias e uma curva de aprendizado mais rápida para todos.</li>  
+              <li>Comunicação transparente e frequente por meio de dailies: A comunicação constante foi fundamental para o andamento do projeto, especialmente por meio das dailies. Durante essas reuniões, discutíamos o progresso das tasks, identificávamos bloqueios e compartilhávamos atualizações importantes. Isso ajudou a garantir que todos na equipe estivessem alinhados e comprometidos com os objetivos do projeto.</li>
+              <li>Proatividade na resolução de problemas: Durante o desenvolvimento, percebi que alguns componentes, como os modais, não estavam funcionando corretamente para todas as funcionalidades devido à falta de generalização no código. Tomei a iniciativa de refatorar esses componentes para torná-los mais flexíveis e reutilizáveis, o que resultou na eliminação dos bugs e melhorou a qualidade do sistema como um todo.</li> 
+              <li>Organização e gestão de tempo: Com a carga crescente das matérias da faculdade, precisei melhorar minha organização para gerenciar melhor meu tempo entre as atividades acadêmicas e o desenvolvimento do projeto. Planejei minhas tarefas com antecedência, utilizando ferramentas como Kanban e Notion, para garantir que as tasks fossem entregues dentro do prazo estipulado sem prejudicar o desempenho em outras áreas.</li>
+              <li>Adaptabilidade a demandas urgenciais para a entrega no prazo correto: Durante as sprints, enfrentamos alguns imprevistos que afetaram o andamento do projeto, como problemas de comprometimento com a entrega das tasks. Em resposta a isso, alguns membros da equipe, á mim inclusa, precisou se adaptar rapidamente aos desafios, ajustando prioridades e trabalhando mais horas para garantir a entrega completa. A flexibilidade e o esforço coletivo foram essenciais para o cumprimento dos prazos e a finalização do projeto.</li>
             </ul>
           </details>
         </div>
@@ -212,12 +212,13 @@ Atuo como estagiária de desenvolvimento de software na Autaza, uma empresa espe
           <details>
             <summary>Soft Skills</summary>
             <ul>
-              <li>Colaboração no compartilhamento de conhecimento com a equipe</li>
-              <li>Comunicação clara e constante por meio de reuniões diárias e revisões e planejamento de sprints</li>
-              <li>Proatividade na identificação e resolução de problemas e busca por novas soluções. Ex: Propus um novo formato de Merge requests para garantir a qualidade e eficiência nas entregas de tasks</li>
-              <li>Organização e gestão eficiente do tempo e das tarefas</li>
-              <li>Adaptabilidade para lidar com mudanças propostas pelo cliente</li>
-              <li>Comprometimento com a entrega de resultados dentro do prazo</li>
+              <li>Colaboração no compartilhamento de conhecimento: A equipe estava começando a trabalhar com Java/Spring no backend e com o conceito de microsserviços, o que representava um desafio novo para todos. Para superar isso, adotamos uma abordagem colaborativa, aprendendo e compartilhando conhecimentos de forma contínua. Fiz questão de compartilhar todas as minhas descobertas sobre as tecnologias usadas, o que facilitou a integração das tecnologias e acelerou o processo de aprendizado coletivo.</li>
+              <li>Comunicação clara e constante por meio de reuniões diárias e revisões e planejamento de sprints: A comunicação foi mantida de forma clara e frequente por meio de dailies, onde discutíamos os avanços e obstáculos das tarefas. Além disso, participei ativamente nas revisões e planejamentos das sprints, contribuindo para que todos os membros da equipe estivessem alinhados quanto aos objetivos e prazos, o que facilitou a adaptação de prioridades conforme necessário.</li>
+              <li>Proatividade na identificação e resolução de problemas e busca por novas soluções: Durante o desenvolvimento, identifiquei uma oportunidade de melhorar o fluxo de trabalho no controle de código, então propus um novo formato de Merge Requests. Essa proposta visava aumentar a qualidade e eficiência nas entregas de tasks, através de uma revisão mais detalhada e criteriosa, resultando em um código mais limpo e sem erros. Isso foi prontamente aceito pela equipe e gerou um impacto positivo na entrega do projeto.</li>
+              <li>Organização e gestão eficiente do tempo e das tarefas: Para garantir que o desenvolvimento seguisse dentro do cronograma, utilizei ferramentas de gestão de tarefas, como o Kanban, para priorizar as atividades e manter o controle das entregas. Isso me permitiu gerenciar de forma eficaz o tempo, dividindo as tarefas em blocos menores e assegurando que os prazos fossem cumpridos sem comprometer a qualidade do trabalho.</li>
+              <li>Adaptabilidade para lidar com mudanças propostas pelo cliente: Durante o projeto, o cliente fez alterações significativas nos requisitos do sistema. Me adaptei rapidamente a essas mudanças, realizando ajustes nas funcionalidades de forma eficiente como planejado com a equipe. Demonstramos flexibilidade ao ajustar os planos de desenvolvimento para incorporar os novos requisitos, mantendo o foco nas entregas de valor para o cliente.</li>
+              <li>Comprometimento com a entrega de resultados dentro do prazo: Comprometi-me integralmente com os prazos estipulados, garantindo que todas as tasks fossem entregues de acordo com o planejado. Mesmo quando tive problemas com relação a dependência de tasks de terceiros para entregar a minha, fiz o que pude para deixar tudo pronto para a entrega e ajudei meus colegas para que fosse possível a entrega final.</li>
+            </ul>
             </ul>
           </details>
         </div>
