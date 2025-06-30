@@ -26,7 +26,7 @@ Atuo como estagiária de desenvolvimento de software na Autaza, uma empresa espe
 <div>
 <h2 id="meus-projetos">Meus Projetos</h2>
   <ul>
-    <li><h3 id="smart-farm"> SmartFarm • 1º Semestre • 2023/01 </h3>
+    <li><h3 id="smart-farm"> SmartFarm • 1º Semestre • 2024/01 </h3>
       <img src="./images/BannerSmartFarm.png" width="100%"></br>
       <p align="center">
         <a href="https://github.com/SkyFlyTeam/SmartFarm" target="_blank">Repositório do Projeto</a> • Equipe SkyFly
@@ -91,7 +91,7 @@ Atuo como estagiária de desenvolvimento de software na Autaza, uma empresa espe
       <p> Durante o desenvolvimento do projeto SmartFarm, aprofundei meus conhecimentos no desenvolvimento de APIs com Python, utilizando o framework Flask. Trabalhei com a manipulação de grandes volumes de dados, focando na sua organização e exibição de forma acessível por meio de gráficos construídos com o uso do Pandas, uma biblioteca amplamente utilizada no mercado. Além dos aprendizados técnicos, também evoluí significativamente na comunicação e colaboração em equipe, contribuindo ativamente com o compartilhamento de conhecimentos e apoiando meus colegas ao longo do projeto.</p>
     </li>
     </br></br>
-    <li><h3 id="cloud-stock"> CloudStock • 2º Semestre • 2023/02 </h3>
+    <li><h3 id="cloud-stock"> CloudStock • 2º Semestre • 2024/02 </h3>
       <img src="./images/BannerCloudStock.png" width="100%"></br>
        <p align="center">
         <a href="https://github.com/SkyFlyTeam/cloudStock" target="_blank">Repositório do Projeto</a> • Equipe SkyFly
@@ -158,7 +158,7 @@ Atuo como estagiária de desenvolvimento de software na Autaza, uma empresa espe
       <p> Durante o desenvolvimento do projeto CloudStock, aprofundei meus conhecimentos na criação de interfaces com React, utilizando componentes e estados de forma organizada e eficiente. Com o aumento do volume de dados manipulados, a performance do website tornou-se uma preocupação central, o que me levou a adotar práticas voltadas à otimização e ao desempenho. Neste semestre, trabalhamos com uma documentação mais detalhada, incorporando critérios como DoR (Definition of Ready) e DoD (Definition of Done), o que exigiu maior organização, planejamento e alinhamento entre os membros da equipe. Além disso, obtive experiência prática com Node.js e Express no backend, contribuindo com a criação de modelos e o desenvolvimento de funcionalidades essenciais do sistema.
       </p>
     </li>
-    <li><h3 id="bot"> BeeOnTime • 3º Semestre • 2024/01 </h3>
+    <li><h3 id="bot"> BeeOnTime • 3º Semestre • 2025/01 </h3>
       <img src="./images/BannerBeeOnTime.png" width="100%"></br>
        <p align="center">
         <a href="https://github.com/SkyFlyTeam/beeOnTime-documentation" target="_blank">Repositório do Projeto</a> • Equipe SkyFly
