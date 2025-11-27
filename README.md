@@ -13,6 +13,15 @@
 
 <h2 id="sobre-mim">Sobre Mim</h2>
 
+<table align="center">
+   <tr>
+     <td align="center">
+     <a href="https://www.linkedin.com/in/karen-cgoncalves/"><img style="border-radius: 50%;" src="./AboutMe/karenGoncalves.jpg" width="25%;" alt=""/><br/>
+     <sub style="font-size: 24px"><b>Karen Gonçalves</b></sub></a><br/>
+     <sub><b>Desenvolvedora de Software</b></sub></td>
+   </tr>
+  </table>
+
 Atualmente estou cursando o 4º semestre de Desenvolvimento de Software Multiplataforma oferecido pela Faculdade de Tecnologia de São José dos Campos (FATEC). Além disso, sou técnica em Desenvolvimento de Sistemas pela ETEC Profª Ilza Nascimento Pintus.
 
 Atuo como desenvolvedora de software na Autaza, uma empresa especializada em soluções de visão computacional e inteligência artificial aplicadas à indústria. Nessa função, colaboro em projetos que envolvem desde o desenvolvimento de aplicações full-stack até a integração com modelos de IA para inspeção automatizada de qualidade.
