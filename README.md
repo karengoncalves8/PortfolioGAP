@@ -228,7 +228,7 @@ Atuo como desenvolvedora de software na Autaza, uma empresa especializada em sol
       <b>📚 Lições Aprendidas</b>
       <p> Durante o desenvolvimento do projeto BeeOnTime, adquiri conhecimentos em arquitetura de microsserviços e no desenvolvimento em Java, a nova tecnologia explorada nesse semestre. Trabalhar com banco de dados NoSQL (MongoDB) me proporcionou uma nova perspectiva sobre modelagem de dados voltada para flexibilidade e desempenho, assim como a manipulação desses dados para se encaixar em uma arquitetura estruturada. Ademais, obtive maior experiência na modelagem do banco de dados, principalmente para sistemas complexos, como a problématica dada.</p>
     </li>
-    <li><h3 id="bot"> Atmos • 4º Semestre • 2025/02 </h3>
+    <li><h3 id="atmos"> Atmos • 4º Semestre • 2025/02 </h3>
       <img src="./images/BannerAtmos.png" width="100%"></br>
        <p align="center">
         <a href="https://github.com/SkyFlyTeam/Atmos-documentation" target="_blank">Repositório do Projeto</a> • Equipe SkyFly
