@@ -7,14 +7,15 @@
   <li><a href="#smart-farm">1ºSEM: SmartFarm</a></li>
   <li><a href="#cloud-stock">2ºSEM: CloudStock</a></li>
   <li><a href="#bot">3ºSEM: BeeOnTime</a></li>
+  <li><a href="#atmos">4ºSEM: Atmos</a></li>
 </ul>
 </p>
 
 <h2 id="sobre-mim">Sobre Mim</h2>
 
-Atualmente estou cursando o 3º semestre de Desenvolvimento de Software Multiplataforma oferecido pela Faculdade de Tecnologia de São José dos Campos (FATEC). Além disso, sou técnica em Desenvolvimento de Sistemas pela ETEC Profª Ilza Nascimento Pintus.
+Atualmente estou cursando o 4º semestre de Desenvolvimento de Software Multiplataforma oferecido pela Faculdade de Tecnologia de São José dos Campos (FATEC). Além disso, sou técnica em Desenvolvimento de Sistemas pela ETEC Profª Ilza Nascimento Pintus.
 
-Atuo como estagiária de desenvolvimento de software na Autaza, uma empresa especializada em soluções de visão computacional e inteligência artificial aplicadas à indústria. Nessa função, colaboro em projetos que envolvem desde o desenvolvimento de aplicações backend e frontend até a integração com modelos de IA para inspeção automatizada de qualidade.
+Atuo como desenvolvedora de software na Autaza, uma empresa especializada em soluções de visão computacional e inteligência artificial aplicadas à indústria. Nessa função, colaboro em projetos que envolvem desde o desenvolvimento de aplicações full-stack até a integração com modelos de IA para inspeção automatizada de qualidade.
 
 <span> Saiba mais sobre mim <a href="https://github.com/karengoncalves8/PortfolioGAP/tree/main/AboutMe/AboutMe.md">aqui!</a> </span>
 
@@ -223,9 +224,78 @@ Atuo como estagiária de desenvolvimento de software na Autaza, uma empresa espe
           </details>
         </div>
       </div>
-      </br>
+      </br>  
       <b>📚 Lições Aprendidas</b>
       <p> Durante o desenvolvimento do projeto BeeOnTime, adquiri conhecimentos em arquitetura de microsserviços e no desenvolvimento em Java, a nova tecnologia explorada nesse semestre. Trabalhar com banco de dados NoSQL (MongoDB) me proporcionou uma nova perspectiva sobre modelagem de dados voltada para flexibilidade e desempenho, assim como a manipulação desses dados para se encaixar em uma arquitetura estruturada. Ademais, obtive maior experiência na modelagem do banco de dados, principalmente para sistemas complexos, como a problématica dada.</p>
+    </li>
+    <li><h3 id="bot"> Atmos • 4º Semestre • 2025/02 </h3>
+      <img src="./images/BannerAtmos.png" width="100%"></br>
+       <p align="center">
+        <a href="https://github.com/SkyFlyTeam/Atmos-documentation" target="_blank">Repositório do Projeto</a> • Equipe SkyFly
+      </p>
+      <b>📑 Descrição do Problema </b>
+      <p> A Tecsus, empresa especializada em Internet das Coisas (IoT), tem se mostrado cada vez mais preocupada com o aumento dos desastres meteorológicos nos últimos anos. Muitos desses eventos poderiam, ao menos, ter sido mitigados caso a população tivesse acesso a alertas antecipados. Com o objetivo de oferecer uma solução eficaz, a empresa se dedica ao desenvolvimento de estações meteorológicas que fornecem uma visão precisa e em tempo real das condições climáticas, a um custo acessível. No entanto, há uma necessidade urgente de criar uma forma simples e centralizada para visualizar e gerenciar todos esses dados de maneira eficiente.
+      </p>
+      </br>
+      <b>🎯 Objetivo</b>
+      <p> Desenvolver uma solução capaz de monitorar o clima e as condições do solo, enviar alertas em situações de risco e oferecer uma área educacional para conscientizar a população sobre os riscos e como se proteger.
+      </p>
+      </br>
+      <b>💡 Solução  </b>
+      <p> Foi criado um site responsivo e intuitivo que recebe e exibe dados em tempo real das estações meteorológicas, em parceria com a Tecsus. A plataforma inclui páginas de administração para gerenciar as estações, parâmetros e alertas, além de funcionalidades de visualização através de gráficos e relatórios mensais, proporcionando uma visão clara e acessível das condições climáticas e riscos associados.
+      </p>
+      </br>
+      <b> 🛠️ Tecnologias Utilizadas </b>
+      <p> 
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+      </p>
+      </br>
+      <b>🙋‍♀️ Contribuições Pessoais</b>
+      <p> Atuei como desenvolvedora da equipe SkyFly, contribuindo desde a elaboração do protótipo inicial até a implementação final da aplicação. Fui responsável pela modelagem do banco de dados, definição da arquitetura dos microsserviços e desenvolvimento tanto do frontend quanto do backend. Desenvolvi uma das funcionalidades centrais do sistema — a marcação de ponto eletrônico — incluindo o cálculo e armazenamento das horas trabalhadas por cada colaborador. Também assumi a responsabilidade pela gestão do banco de dados no MongoDB, garantindo consistência e desempenho na manipulação das informações.
+      </p>
+      <div style="display: flex; gap: 1rem">
+        <span><b> Habilidades Adquiridas: </b></span>
+        <div style="display: flex; gap: 3rem">
+          <details>
+            <summary>Hard Skills</summary>
+            <ul>
+              <li>React</li>
+              <li>Node.js</li>
+              <li>TypeScript</li>
+              <li>Arduino com C++</li>
+              <li>Programação com IoT</li>
+              <li>Estados de Máquina</li>
+              <li>MongoDB</li>
+              <li>Docker</li>
+              <li>Figma</li>
+              <li>Git e GitHub</li>
+            </ul>
+          </details>
+          <details>
+            <summary>Soft Skills</summary>
+            <ul>
+              <li>Colaboração no compartilhamento de conhecimento: Propus a implementação de uma nova estrutura para o projeto, com o objetivo de otimizar nossa organização interna. Para garantir que todos compreendessem a mudança, tomei a iniciativa de explicar detalhadamente o novo processo para meus colegas, de forma que a transição fosse suave e a alteração realmente trouxesse benefícios para a equipe como um todo.</li>
+              <li>Comunicação constante e eficiente através de reuniões diárias e planejamento de sprints: Manteve-se uma comunicação constante e fluida por meio de reuniões diárias (dailies), nas quais compartilhávamos as atualizações sobre as tarefas em andamento, além de discutir quaisquer dificuldades ou obstáculos. Além disso, estive ativamente envolvida nas reuniões de revisão e planejamento das sprints, colaborando para assegurar que todos os membros da equipe estivessem bem alinhados com as prioridades e os prazos.</li>
+              <li>Proatividade na execução de tarefas adicionais: Após concluir minhas tarefas iniciais, busquei contribuir ainda mais com o time. Ajudei meus colegas a superar obstáculos em suas atividades e assumi responsabilidades extras quando identifiquei que havia tarefas com prazos apertados ou que poderiam não ser entregues a tempo. Essa postura proativa ajudou a manter o fluxo de trabalho contínuo e a minimizar riscos no cronograma do projeto.</li>
+              <li>Comprometimento com a entrega pontual dos resultados: Mantive um alto nível de comprometimento com os prazos acordados, garantindo que todas as tarefas fossem entregues conforme o planejado. Meu foco foi assegurar que os resultados estivessem não apenas dentro do prazo, mas também de acordo com os padrões de qualidade exigidos, refletindo meu empenho na conclusão bem-sucedida do projeto.</li>
+            </ul>
+            </ul>
+          </details>
+        </div>
+      </div>
+      </br>  
+      <b>📚 Lições Aprendidas</b>
+      <p> Este projeto me proporcionou valiosas lições, principalmente sobre a importância de ter um processo bem estruturado e seguido rigorosamente pela equipe. Com um fluxo de trabalho claro, conseguimos garantir entregas constantes e confiáveis, o que é essencial para o sucesso do projeto. Além disso, foi minha primeira experiência com o desenvolvimento de IoT, o que se mostrou desafiador, mas extremamente enriquecedor. A integração de dispositivos e sistemas para coletar e analisar dados em tempo real exigiu aprendizado contínuo, mas também me proporcionou uma nova perspectiva sobre a inovação tecnológica e a aplicação prática da Internet das Coisas. </p>
     </li>
   </ul>
 </div>
