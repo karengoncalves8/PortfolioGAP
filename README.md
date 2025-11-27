@@ -256,12 +256,10 @@ Atuo como desenvolvedora de software na Autaza, uma empresa especializada em sol
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
       </p>
       </br>
       <b>🙋‍♀️ Contribuições Pessoais</b>
-      <p> Atuei como desenvolvedora da equipe SkyFly, contribuindo desde a elaboração do protótipo inicial até a implementação final da aplicação. Fui responsável pela modelagem do banco de dados, definição da arquitetura dos microsserviços e desenvolvimento tanto do frontend quanto do backend. Desenvolvi uma das funcionalidades centrais do sistema — a marcação de ponto eletrônico — incluindo o cálculo e armazenamento das horas trabalhadas por cada colaborador. Também assumi a responsabilidade pela gestão do banco de dados no MongoDB, garantindo consistência e desempenho na manipulação das informações.
+      <p> Atuei como desenvolvedora na equipe SkyFly, participando desde a concepção do protótipo inicial até a entrega da versão final da aplicação. Colaborei no desenvolvimento de funcionalidades essenciais, como a geração de alertas com base nos valores capturados e a criação do dashboard. Além disso, fui responsável pela implementação de testes de integração, assegurando que o sistema operasse conforme o esperado.
       </p>
       <div style="display: flex; gap: 1rem">
         <span><b> Habilidades Adquiridas: </b></span>
