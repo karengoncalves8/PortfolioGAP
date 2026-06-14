@@ -307,7 +307,7 @@ Atuo como desenvolvedora de software na Autaza, uma empresa especializada em sol
     </li>
     <li>
       <h3 id="veredito"> Veredito • 5º Semestre • 2026/01 </h3>
-      <img src="./mgt/BannerVeredito.png" width="100%"></br>
+      <img src="./images/BannerVeredito.png" width="100%"></br>
       <p align="center">
         <a href="https://github.com/SkyFlyTeam/veredito-documentation" target="_blank">Repositório do Projeto</a> • Equipe SkyFly
       </p>
