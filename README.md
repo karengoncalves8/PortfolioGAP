@@ -8,6 +8,7 @@
   <li><a href="#cloud-stock">2ºSEM: CloudStock</a></li>
   <li><a href="#bot">3ºSEM: BeeOnTime</a></li>
   <li><a href="#atmos">4ºSEM: Atmos</a></li>
+  <li><a href="#veredito">5ºSEM: Veredito</a></li>
 </ul>
 </p>
 
@@ -304,5 +305,75 @@ Atuo como desenvolvedora de software na Autaza, uma empresa especializada em sol
       <b>📚 Lições Aprendidas</b>
       <p> Este projeto me proporcionou valiosas lições, principalmente sobre a importância de ter um processo bem estruturado e seguido rigorosamente pela equipe. Com um fluxo de trabalho claro, conseguimos garantir entregas constantes e confiáveis, o que é essencial para o sucesso do projeto. Além disso, foi minha primeira experiência com o desenvolvimento de IoT, o que se mostrou desafiador, mas extremamente enriquecedor. A integração de dispositivos e sistemas para coletar e analisar dados em tempo real exigiu aprendizado contínuo, mas também me proporcionou uma nova perspectiva sobre a inovação tecnológica e a aplicação prática da Internet das Coisas. </p>
     </li>
+    <li>
+      <h3 id="veredito"> Veredito • 5º Semestre • 2026/01 </h3>
+      <img src="./mgt/BannerVeredito.png" width="100%"></br>
+      <p align="center">
+        <a href="https://github.com/SkyFlyTeam/veredito-documentation" target="_blank">Repositório do Projeto</a> • Equipe SkyFly
+      </p>
+      <b>📑 Descrição do Problema </b>
+      <p>
+      Nos últimos anos, o volume de processos judiciais e a complexidade das teses apresentadas cresceram de forma significativa, tornando mais difícil para juízes e assessores localizar rapidamente precedentes adequados e fundamentar decisões com agilidade e segurança. Esse cenário impacta diretamente a eficiência do Judiciário, prolongando a tramitação dos processos e aumentando o risco de decisões pouco alinhadas à jurisprudência consolidada.
+      </p>
+      </br>
+      <b>🎯 Objetivo</b>
+      <p>
+      Desenvolver um aplicativo voltado para magistrados e suas equipes que automatize a análise de petições iniciais e a sugestão de precedentes jurídicos relevantes. O objetivo foi oferecer uma ferramenta que agilize a fundamentação das decisões judiciais, tornando o processo mais célere, seguro e alinhado à jurisprudência consolidada.
+      </p>
+      </br>
+      <b>💡 Solução </b>
+      <p>
+      Foi criada a plataforma Veredito, um aplicativo que recebe a petição inicial (em formatos PDF, DOCX ou TXT), realiza a leitura e análise automática do conteúdo e gera um resumo da peça. A partir dessa análise, o sistema identifica e apresenta os precedentes mais relevantes ranqueados por grau de similaridade e classificados quanto à sua aplicabilidade (Aplicável, Possivelmente aplicável ou Não aplicável), com sínteses explicativas da relação entre cada precedente e a petição enviada. Além disso, a plataforma permite a geração de minutas de sentenças e petições iniciais, histórico de análises e exportação de documentos.
+      </p>
+      </br>
+      <b> 🛠️ Tecnologias Utilizadas </b>
+      <p>
+      ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+      ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+      ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+      ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+      ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+      ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+      ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+      ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+      ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+      </p>
+      </br>
+      <b>🙋‍♀️ Contribuições Pessoais</b>
+      <p>
+      Nesse projeto, atuei como Product Owner pela primeira vez, então tive a experiência de conversar diretamente com o cliente e ser responsável pela elaboração dos requisitos do sistema, assim como garantir e gerenciar o desenvolvimento para que todas as dores do cliente fosse sanadas. Fiz todo o wireframe da aplicação, assim como sua identidade visual, com uma logo totalmente original e condizente com o tema. Ademais, apresentei para o time o Clean Architecture, para que fosse utilizado no desenvolvimento do frontend.
+      </p>
+      <div style="display: flex; gap: 1rem">
+        <span><b> Habilidades Adquiridas: </b></span>
+        <div style="display: flex; gap: 3rem">
+          <details>
+            <summary>Hard Skills</summary>
+            <ul>
+              <li>Flutter</li>
+              <li>Dart</li>
+              <li>Node.js</li>
+              <li>NestJS</li>
+              <li>PostgreSQL</li>
+              <li>Docker</li>
+              <li>Figma</li>
+              <li>Git e GitHub</li>
+            </ul>
+          </details>
+          <details>
+            <summary>Soft Skills</summary>
+            <ul>
+              <li>Comunicação interna com o time: Mantive contato contínuo com os desenvolvedores ao longo de todo o projeto, garantindo que todos tivessem clareza sobre o que precisava ser desenvolvido, o contexto por trás de cada decisão e a motivação dos requisitos — o que reduziu retrabalho e manteve o time alinhado.</li>
+              <li>Comunicação com o cliente: Desenvolvi a habilidade de atuar como ponte entre o time técnico e o cliente, traduzindo dúvidas complexas de forma objetiva e organizada. Isso evitou o desgaste de perguntas fragmentadas e tornou as interações com o cliente mais produtivas e assertivas.</li>
+              <li>Proatividade na adoção de novas tecnologias: Pesquisei e apresentei ao time novas metodologias, ferramentas e abordagens técnicas que pudessem otimizar tanto o processo de desenvolvimento quanto a qualidade da aplicação, estimulando uma cultura de melhoria contínua dentro da equipe.</li>
+            </ul>
+          </details>
+        </div>
+      </div>
+      </br>
+      <b>📚 Lições Aprendidas</b>
+      <p>
+      Durante o desenvolvimento do Veredito, uma das principais lições foi a importância da otimização — tanto de custos quanto de desempenho — ao trabalhar com LLMs. A dependência de modelos de linguagem exigiu atenção cuidadosa ao consumo de tokens, ao tempo de resposta e à eficiência das chamadas à API, especialmente considerando o perfil exigente do público-alvo da aplicação. Além disso, a necessidade de adaptar rapidamente o sistema a novos requisitos reforçou na prática o valor de uma arquitetura escalável e bem estruturada: decisões de design tomadas com cuidado no início do projeto se mostraram fundamentais para absorver mudanças sem comprometer a estabilidade ou gerar dívida técnica acumulada.
+      </p>
+      </li>
   </ul>
 </div>
