@@ -32,7 +32,7 @@
 
 <p>Atuo como desenvolvedora de software na Autaza, uma empresa especializada em soluções de visão computacional e inteligência artificial aplicadas à indústria. Nessa função, colaboro em projetos que envolvem desde o desenvolvimento de aplicações full-stack até a integração com modelos de IA para inspeção automatizada de qualidade.</p>
 
-<p>Saiba mais sobre mim <a href="https://github.com/karengoncalves8/PortfolioGAP/tree/main/AboutMe/AboutMe.md">aqui!</a></p>
+<p>Saiba mais sobre mim <a href="./AboutMe/AboutMe">aqui!</a></p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/karen-gon%C3%A7alves-462ab3212/" target="_blank">
